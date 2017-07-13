@@ -1,0 +1,43 @@
+{
+  "name": "swagger-ui-koa",
+  "version": "0.0.1",
+  "description": "Swagger UI Koa",
+  "main": "./lib/index.js",
+  "files": [
+    "static",
+    "package.json",
+    "index.js",
+    "indexTemplate.html"
+  ],
+  "scripts": {
+    "test": "echo 1"
+  },
+  "keywords": [
+    "swagger",
+    "koa",
+    "ui",
+    "json",
+    "documentation"
+  ],
+  "private": false,
+  "engines": {
+    "node": ">= v0.10.32"
+  },
+  "devDependencies": {
+    "koa-static": "^3.0.0"
+  },
+  "author": {
+    "name": "Darmikon",
+    "email": "hellfrom@mail.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Darmikon/swagger-ui-koa.git"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/scottie1984/swagger-ui-koa/issues"
+  },
+  "homepage": "https://github.com/Darmikon/swagger-ui-koa"
+}
