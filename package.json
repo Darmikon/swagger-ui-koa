@@ -1,7 +1,7 @@
 {
-  "name": "swagger-ui-koa",
+  "name": "swagger-ui-for-koa",
   "version": "0.0.2",
-  "description": "Swagger UI Koa",
+  "description": "Swagger UI For Koa",
   "main": "./lib/index.js",
   "files": [
     "static",
@@ -37,7 +37,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/scottie1984/swagger-ui-koa/issues"
+    "url": "https://github.com/mariuso/swagger-ui-koa/issues"
   },
-  "homepage": "https://github.com/Darmikon/swagger-ui-koa"
+  "homepage": "https://github.com/mariuso/swagger-ui-koa"
 }
