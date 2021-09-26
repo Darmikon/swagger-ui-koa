@@ -27,12 +27,12 @@
     "koa-static": "^3.0.0"
   },
   "author": {
-    "name": "Darmikon",
-    "email": "hellfrom@mail.ru"
+    "name": "Marius",
+    "email": "marius@osethconsult.no"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Darmikon/swagger-ui-koa.git"
+    "url": "git@github.com:mariuso/swagger-ui-koa.git"
   },
   "license": "MIT",
   "readmeFilename": "README.md",
