@@ -1,7 +1,7 @@
 {
-  "name": "swagger-ui-koa",
-  "version": "0.0.1",
-  "description": "Swagger UI Koa",
+  "name": "swagger-ui-for-koa",
+  "version": "0.0.3",
+  "description": "Swagger UI For Koa",
   "main": "./lib/index.js",
   "files": [
     "static",
@@ -27,17 +27,17 @@
     "koa-static": "^3.0.0"
   },
   "author": {
-    "name": "Darmikon",
-    "email": "hellfrom@mail.ru"
+    "name": "Marius",
+    "email": "marius@osethconsult.no"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Darmikon/swagger-ui-koa.git"
+    "url": "git@github.com:mariuso/swagger-ui-koa.git"
   },
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/scottie1984/swagger-ui-koa/issues"
+    "url": "https://github.com/mariuso/swagger-ui-koa/issues"
   },
-  "homepage": "https://github.com/Darmikon/swagger-ui-koa"
+  "homepage": "https://github.com/mariuso/swagger-ui-koa"
 }

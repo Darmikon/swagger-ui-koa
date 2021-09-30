@@ -1,10 +1,10 @@
 # Swagger UI Koa 2
 
-Forked from [swagger-ui-express](https://github.com/scottie1984/swagger-ui-express)
+Forked from [swagger-ui-express](https://github.com/Darmikon/swagger-ui-koa)
 
 Adds middleware to your koa app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your app.
 
-Updated to Swagger 3.0.17
+Updated to Swagger 3.52.3
 
 ## Usage
 
